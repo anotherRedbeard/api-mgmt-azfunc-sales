@@ -10,7 +10,7 @@ None
 
 ## GetCustomer
 
-This is the function that will process and make decisions based on the output from passing the ticket image into the Read API
+This is the function that will return customer information
 
 ## Utilities
 
